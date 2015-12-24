@@ -8,5 +8,6 @@ exclude:
   - Gemfile.lock
   - script
   - README.markdown
+  - vendor
 
 title: "Why's (Poignant) Guide to Ruby"
