@@ -93,7 +93,7 @@ niños tropezándose, balbuceando incoherentemente con labios tan rojos como los
 
 ## 2. El Cuento Del Perro
 
-So try this first bit of poignancy on for size:
+Preuba esto por un poco de conmovimiento:
 
 One day I was walking down one of those busy roads covered with car dealerships
 (this was shortly after my wedding was called off) and I found an orphaned dog
