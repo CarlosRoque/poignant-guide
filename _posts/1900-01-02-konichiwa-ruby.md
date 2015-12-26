@@ -91,7 +91,7 @@ niños tropezándose, balbuceando incoherentemente con labios tan rojos como los
 
 <a name="section2"></a>
 
-## 2. The Dog Story
+## 2. El Cuento Del Perro
 
 So try this first bit of poignancy on for size:
 
