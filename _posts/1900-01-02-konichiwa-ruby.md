@@ -1,10 +1,10 @@
 ---
-title: "Kon’nichi wa, Ruby"
+title: "Konichi wa, Ruby"
 permalink: book/chapter-2.html
 layout: chapter
 sections:
 - - section1
-  - Opening This Book
+  - Abriendo Este Libro
 - - section2
   - The Dog Story
 - - section3
@@ -15,91 +15,76 @@ sections:
 
 <a name="section1"></a>
 
-## 1. Opening This Book
+## 1. Abriendo éste libro
 
-Pretend that you’ve opened this book (although you probably _have_ opened this
-book), just to find a huge onion right in the middle crease of the book. (The
-manufacturer of the book has included the onion at my request.)
+Pretende qué has abierto éste libro (aunque probablemente _has_ abierto éste libro), solo para encontrar
+Un gran anillo de cebolla en el centro del libro. (El fabricante del libro ha incluido la cebolla a mi petición.)
 
-So you’re like, “Wow, this book comes with an onion!” (Even if you don’t
-particularly like onions, I’m sure you can appreciate the logistics of shipping
-any sort of produce discreetly inside of an alleged programming manual.)
+Entonces tú dices, "¡Wow, éste libro viene con una cebolla!" (Aun sí a tú no té gustan las cebollas, estoy seguro qué puedes apreciar la logística de enviar cualquier tipo de verduras discretamente adentro de un presunto manual de programación.)
 
-Then you ask yourself, “Wait a minute. I thought this was a book on Ruby, the
-incredible new programming language from Japan. And although I can appreciate
-the logistics of shipping any sort of produce discreetly inside of an alleged
-programming manual: Why an onion? What am I supposed to do with it?”
+Pero luego té preguntas, "Un momento. Yo pensé que éste era un libro acerca de Ruby, el increíble nuevo
+Lenguaje de programación de Japón. Y aunque yo puedo apreciar la logística de enviar cualquier tipo de verdura discretamente adentro de un supuesto manual de programación: ¿Porque una cebolla? ¿Qué tengo qué hacer con eso supuestamente?"
 
-No. Please don’t puzzle over it. You don’t need to do anything with the onion.
-Set the onion aside and let _it_ do something with _you_.
+No. Por favor no té aperplejes sobré eso. No necesitas hacer nada con la cebolla. Pon la cebolla a un lado y déjala a _ella_ hacer algo con _Tigo_.
 
-I’ll be straight with you. I want you to cry. To weep. To whimper sweetly. This
-book is a **poignant** guide to Ruby. That means code so beautiful that tears
-are shed. That means gallant tales and somber truths that have you waking up the
-next morning in the arms of this book. Hugging it tightly to you all the day
-long. If necessary, fashion a makeshift hip holster for _Why’s (Poignant) Guide
-to Ruby_, so you can always have this book’s tender companionship.
+Seré honesto contigo. Quiero qué llores. Qué gemas dulcemente. Éste libro es una guía **conmovedora** de Ruby.
+Esto significa código tan hermoso qué lágrimas correrán por tú cara. Eso significa cuentos galantes y verdades sombrías
+qué té tendrán despertando en los brazos de éste libro. Abrazándolo fuertemente todo el día. Si es necesario, fabrica un
+bolsillo improvisado para _Why's guía (conmovedora) de Ruby_, para qué siempre puedas estar en la dulce compañía de
+éste libro.
 
-You really must sob once. Or at least sniffle. And if not, then the onion will
-make it all happen for you.
+Debes suspirar ármenos una vez. O por lo menos gimotear. Y sí no, entonces la cebolla hará qué lo hagas de todos modos.
+
 
 <div class=sidebar><aside>
 {% capture sidebar %}
-## What I’m Going to Do With the Massive Proceeds from this Book
+## Lo Qué Voy a Hacer Con Las Masivas Ganancias De Este Libro
 
-Anyone who’s written a book can tell you how easily an author is distracted by
-visions of grandeur. In my experience, I stop twice for each paragraph, and four
-times for each panel of a comic, just to envision the wealth and prosperity that
-this book will procure for my lifestyle. I fear that the writing of this book
-will halt altogether to make way for the armada of SUVs and luxury town cars
-that are blazing away in my head.
+Cualquiera qué haya escrito un libro té puede contar lo fácilmente qué un autor es distraído por visiones de grandeza.
+En mi experiencia, me detengo dos veces por cada párrafo, y cuatro veces por cada escena de una caricatura, solo para
+en visionar la riqueza y prosperidad qué este libro le dará a mi estilo de vida. Me da miedo qué el progreso de este libro
+se detendrá del todo para darle paso a la armada de SUV's y carros lujosos qué corren en mí cabeza.
 
-Rather than stop my production of the (Poignant) Guide, I’ve reserved this space
-as a safety zone for pouring my empty and vain wishes.
+Envés de detener mí producción de la Guía (conmovedora), e reservado este espacio como zona de seguridad para
+verter mis deseos vacíos y vanos.
 
-Today I was at this Italian restaurant, Granado’s, and I was paying my bill.
-Happened to notice (under glass) a bottle of balsamic vinegar going for $150.
-Fairly small. I could conceal it in my palm. Aged twenty-two years.
+Hoy estaba en un restaurante Italiano, Granado's, y estaba pagando mí cuenta. De repente me fije (en la vitrina)
+había un bote de vinagre balsámico qué se vendía por $150. Bien pequeño. Lo podía esconder en la palma de mi mano.
+envejecido por veintidós años.
 
-I’ve spent a lot of time thinking about that bottle. It is often an accessory in
-some of these obsessive fantasies. In one fantasy, I walk into the restaurant,
-toss a stack of greenery on the counter and earnestly say to the cashier,
-“Quick! I have an important salad to make!”
+Yo he pasado mucho tiempo pensando acerca de ese bote. Es muchas veces un accesorio en algunas de esas fantasías obsesionadas.
+En una de esas fantasías, yo entro al restaurante, tiro una faja de billetes en el mostrador y le digo al cajero formalmente,
+“¡Rápido! Tengo una ensalada importante que hacer!
 
-In another, related fantasy, I am throwing away lettuce. Such roughage isn’t
-befitting of my new vinegar. No, I will have come to a point where the fame and
-the aristocracy will have corrupted me to my core. My new lettuce will be cash.
-Cold, hard cash, Mrs. Price.
+En otra, fantasía relacionada, estoy botando lechuga. Ese tipo de fibra no es beneficiosa a mi nuevo vinagre. No, estoy en un
+ punto que la fama y la aristocracia me han corrompido hasta mi núcleo. My nueva lechuga será efectivo. Frio, duro efectivo,
+ Señora Price.
 
-Soon, I will be expending hundreds for a block of myzithra cheese.
+Muy pronto, estaré gastando cientos de dólares por un bloque de queso myzithra.
 
-My imaginations have now gone beyond possessions, though. Certainly, I have
-thought through my acquisition of Grecian urns, motorcades, airlines, pyramids,
-dinosaur bones. Occasionally I’ll see wind-tossed cities on the news and I’ll
-jot down on my shopping list: _Hurricane_.
+Mis imaginaciones han sobrepasado más que las posesiones. Ciertamente, Yo he pensado acerca de compras de urnas Grecas,
+caravanas, aerolíneas, pirámides, huesos de dinosaurios. Ocasionalmente veo en las noticias ciudades asediadas por vientos
+y escribo en mi lista de compras: _Huracán_.
 
-But, now I’m seeing a larger goal. Simply put: what if I amassed such a fortune
-that the mints couldn’t print enough to keep up with my demand? So, everyone
-else would be forced to use Monopoly money as actual currency. And you would
-have to win in Monopoly to keep food on the table. These would be some seriously
-tense games. I mean you go to mortgage St. James Place and your kids start
-crying. In addition, I think you’ll begin to see the end of those who choose to
-use the Free Parking square as [the underground
-coffers](http://groups.yahoo.com/group/monopoly/message/37) for city funds.
+Pero ahora estoy viendo un objetivo más grande. Poniendo simplemente: ¿Qué pasaría si consiguiera una fortuna tan grande que
+las imprentas no pudieran imprimir suficientemente para cumplir con mis demandas? De esa forma todos los demás se verían
+forzados a usar dinero de juguete de monopolio como dinero de verdad. Así tendrías que ganar en el juego de Monopolio para
+traer comida a la mesa. Estos serían juegos seriamente tensos. Ósea, te vas a hipotecar St. James Place y tus niños comienzan
+a llorar. Además, creo que comienzas a ver el fin que espera a todos esos que deciden usar el cuadro de parqueo gratis como
+[Las arcas subterráneas](http://groups.yahoo.com/group/monopoly/message/37) como fondos de la ciudad.
 
-You’ve got to hand it to fun money, though. Fake money rules. You can get your
-hands on it so quickly. For a moment, it seems like you’re crazy rich. When I
-was a kid, I got with some of the neighborhood kids and we built this little
-Tijuana on our street. We made our own pesos and wore sombreros and everything!
 
-One kid was selling hot tamales for two pesos each. _Two pesos!_ Did this kid
-know that the money was fake? Was he out of his mind? Who invited this kid?
-Didn’t he know this wasn’t really Tijuana? Maybe he was really from Tijuana!
-Maybe these were _real_ pesos! Let’s go make more _real_ pesos!
+Tienes que darle crédito al dinero de juguete. Dinero de juguete reina. Lo puedes conseguir tan rápidamente. Por un momento,
+parece que eres locamente rico. Cuando yo era un niño, yo estaba con unos niños del vecindario y nosotros construimos esta
+pequeña Tijuana en nuestra calle. ¡Hicimos nuestros propios pesos y usamos sombreros y de todo!
 
-I think we even had a tavern where you could get totally hammered off Kool-Aid.
-There’s nothing like a bunch of kids stumbling around, mumbling incoherently
-with punchy red clown lips.
+Un niño estaba vendiendo tamales calientes por dos pesos cada uno. ¡Dos Pesos! ¿Este niño habrá sabido que el dinero era
+falso? ¿Estaba loco? ¿Habrá sabido que este no era la verdadera Tijuana? ¡Quizás él era de verdad de Tijuana! ¡Quizás estos
+Pesos eran _reales_! ¡Vamos a hacer más pesos _reales_!
+
+Creo que teníamos hasta una taberna donde te podías emborrachar completamente en Kool-Aid. No hay nada como un grupo de
+niños tropezándose, balbuceando incoherentemente con labios tan rojos como los de un payaso.
+
 {% endcapture %}
 {{ sidebar | markdownify }}
 </aside></div>
@@ -185,36 +170,36 @@ I should offer you some sort of motivation, though. So, Smotchkkiss, I’m going
 to give my three best reasons to learn Ruby and be done with it.
 
 1.  **Brain health.**
-    
+
     Vitamin R. Goes straight to the head. Ruby will teach you to _express_ your
 ideas through a computer. You will be writing stories for a machine.
-    
+
     Creative skills, people. Deduction. Reason. Nodding intelligently. The
 language will become a tool for you to better connect your mind to the world.
 I’ve noticed that many experienced users of Ruby seem to be clear thinkers and
 objective. (In contrast to: heavily biased and coarse.)
 
 2.  **One man on one island.**
-    
+
     Ruby was born in Japan. Which is freaky. Japan is not known for its
 software. And since programming languages are largely written in English, who
 would suspect a language to come from Japan?
-    
+
     And yet, here we have Ruby. Against the odds, Yukihiro Matsumoto created
 Ruby on February 24, 1993. For the past ten years, he has steadily brought Ruby
 to a global audience. It’s triumphant and noble and all that. Support diversity.
 Help us tilt the earth just a bit.
 
 3.  **Free.**
-    
+
     Using Ruby costs nothing. The code to Ruby itself is open for all of the
 world to inhale/exhale. Heck, this book is free. It’s all part of a great, big
 giveaway that should have some big hitch to it.
-    
+
     You’d think we’d make you buy vacuums or timeshare or fake Monets. You’d
 think there’d be a 90 minute presentation where the owner of the company comes
 out at the end and knuckles you into sealing the deal.
-    
+
     Nope, free.
 
 With that, it’s time for the book to begin. You can now get out your highlighter
