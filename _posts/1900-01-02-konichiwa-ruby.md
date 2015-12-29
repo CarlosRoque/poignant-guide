@@ -93,18 +93,19 @@ niños tropezándose, balbuceando incoherentemente con labios tan rojos como los
 
 ## 2. El Cuento Del Perro
 
-Preuba esto por un poco de conmovimiento:
+Mira si esto es suficientemente conmovedor:
 
-One day I was walking down one of those busy roads covered with car dealerships
-(this was shortly after my wedding was called off) and I found an orphaned dog
-on the road. A woolly, black dog with greenish red eyes. I was kind of feeling
-like an orphan myself, so I took a couple balloons that were tied to a pole at
-the dealership and I relocated them to the dog’s collar. Then, I decided he
-would be my dog. I named him Bigelow.
+Un día estaba caminando por una de esas calles llenas con ventas de carros
+(esto fue poco después que mi boda fue cancelada) y encontré un perro huérfano
+en la calle. Un perro negro, peludo de ojos verdirrojos. Yo me sentía como un
+huérfano también, así que tome un par de globos que estaban atados a un poste en
+la venta de carros y los relocalice al collar del perro. Luego decidí  que el seria
+mi perro. Lo llame Bigelow.
 
-We set off to get some Milkbones for Bigelow and, afterwards, head over to my
-place, where we could sit in recliners and listen to Gorky’s Zygotic Mynci. Oh,
-and we’d also need to stop by a thrift store and get Bigelow his own recliner.
+Nos fuimos a buscar unos Milkbones para Bigelow y, después, a mi casa, a donde nos
+podíamos sentar en sillas reclinables y escuchar a  Gorky’s Zygotic Mynci. Oh, y
+también tendríamos que detenernos en una tienda de segunda mano y comprarle a Bigelow
+su propia silla reclinable. 
 
 But Bigelow hadn’t accepted me as his master. So five minutes later, the stupid
 dog took a different crosswalk than I did and I never caught up. So whereas he
