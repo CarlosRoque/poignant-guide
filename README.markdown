@@ -1,3 +1,8 @@
+# Traducción al español
+Este es un trabajo en progreso. Para un avance del trabajo completado vean esta
+pagina http://carlosroque.github.io/poignant-guide.
+
+
 On August 19, 2009 Why the Lucky Stiff removed every trace of his work from the
 Web, including this book: the Poignant Guide to Ruby.
 
