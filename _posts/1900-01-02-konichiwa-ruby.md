@@ -105,36 +105,35 @@ mi perro. Lo llame Bigelow.
 Nos fuimos a buscar unos Milkbones para Bigelow y, después, a mi casa, a donde nos
 podíamos sentar en sillas reclinables y escuchar a  Gorky’s Zygotic Mynci. Oh, y
 también tendríamos que detenernos en una tienda de segunda mano y comprarle a Bigelow
-su propia silla reclinable. 
+su propia silla reclinable.
 
-But Bigelow hadn’t accepted me as his master. So five minutes later, the stupid
-dog took a different crosswalk than I did and I never caught up. So whereas he
-had previously only been lost once, he was now lost twice. I slowed my pace
-towards the life of Milkbones and an extra recliner. I had a dog for five
-minutes.
+Pero Bigelow no me había aceptado como su dueño. Así que cinco minutos más tarde,
+el perro idiota se fue por otra acera y ya nunca lo pude alcanzar. Ósea que previamente
+solo había estado perdido una vez,  ahora estaba perdido dos veces. Disminuí mi
+ritmo hacia la vida de Milkbones y una silla reclinable extra. Tuve un perro por 5 minutos.
 
-Stupid Benedict Arnold of a dog. I sat on a city bench and threw pine cones at a
-statue of three sheep crossing a bridge. After that, I wept for hours. The tears
-just came. Now there’s a little something poignant to get you started.
+Un perro estúpido a la Benedict Arnold.  Me senté en una banca pública y tire piñas
+de pinos a una estatua de tres ovejas cruzando un puente. Después de eso, llore por
+horas. Las lágrimas solo venían. Ahora ahí está algo un poco conmovedor para comenzar.
 
-I wonder where he went with all those balloons. That crazy dog must have looked
-like a party with legs.
+Me pregunto adonde se fue con todas esos globos. Ese perro loco ha de haber parecido
+ como una fiesta con patas.
 
-It wasn’t much later that I pulled my own Bigelow. I printed out a bunch of
-pages on Ruby. Articles found around the Web. I scanned through them on a train
-ride home one day. I flipped through them for five minutes and then gave up. Not
-impressed.
+No fue mucho más tarde que yo saqué mi propio Bigelow. Yo imprimí un montón de
+páginas en Ruby. Artículos encontrados en la red. Yo los leí en un viaje por tren
+hacia mi casa un día de estos. Hojeé por 5 minutos y luego me di por vencido.
+No me impresionaron.
 
-I sat, staring out the window at the world, a life-sized blender mixing graffiti
-and iron smelts before my eyes. _This world’s too big for such a a little
-language_, I thought. _Poor little thing doesn’t stand a chance. Doesn’t have
-legs to stand on. Doesn’t have arms to swim._
+Me senté, mirando fijamente al mundo por la ventana, una licuadora de tamaño
+natural mesclando grafiti y hierro fundido frente a mis ojos. _Este mundo es demasiado
+grande para un lenguaje tan pequeño_, pensé, _Pobrecito no tiene ninguna oportunidad.
+No tiene piernas para pararse por sí solo. No tiene brazos para nadar._
 
-And yet, there I was. One little man on a flimsy little train (and I even still
-had a baby tooth to lose at the time) out of billions of people living on a
-floating blue rock. How can I knock Ruby? Who’s to say that I’m not going to
-happen to choke on my cell phone and die later that evening. Why’s dead, Ruby
-lives on.
+Y aun así, ahí estaba yo. Un pequeñito hombre en un endeble trencito (y yo todavía
+tenía un diente de leche que perder en ese tiempo) de miles de millones de gente
+que viven en una roca azul flotante. ¿Cómo puedo burlarme de Ruby? Quien quita que
+me valla a atragantar con mi celular y muera esa tarde. Why está muerto, Ruby continua viviendo. 
+
 
 The gravestone:
 
