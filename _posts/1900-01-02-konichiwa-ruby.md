@@ -132,15 +132,15 @@ No tiene piernas para pararse por sí solo. No tiene brazos para nadar._
 Y aun así, ahí estaba yo. Un pequeñito hombre en un endeble trencito (y yo todavía
 tenía un diente de leche que perder en ese tiempo) de miles de millones de gente
 que viven en una roca azul flotante. ¿Cómo puedo burlarme de Ruby? Quien quita que
-me valla a atragantar con mi celular y muera esa tarde. Why está muerto, Ruby continua viviendo. 
+me valla a atragantar con mi celular y muera esa tarde. Why está muerto, Ruby continua viviendo.
 
 
-The gravestone:
+La tumba:
 
-> What’s in his trachea? Oh, look, a Nokia!
+> ¿Qué es eso en su tráquea? Oh, miren, un Nokia!
 
-Just my luck. Finally get to have a good, long sleep underground, only to be
-constantly disturbed by _Pachelbel’s Canon_ going off in my stomach.
+Esa es mi suerte, Finalmente consigo un buen, largo sueño bajo tierra, solo para
+ser constantemente interrumpido por _Pachelbel’s Canon_ sonando en mi estómago.
 
 <a name="section3"></a>
 
