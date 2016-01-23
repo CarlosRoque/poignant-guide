@@ -190,36 +190,38 @@ fuente teniendo una perfectamente buena conversación. Su cara no parece como la
 de ese némesis de tu infancia. Tú has conocido el gemelo bueno. Tú has hecho
 clic.  
 
-So whereas I should probably be pounding your teeth in with hype about Ruby and
-the tightly-knit cadre of pertinent acronyms that accompany it everywhere
-(whetting the collective whistles of your bosses and their bosses’ bosses),
-instead I will just let you coast. I’ll let you free-fall through some code,
-interjecting occasionally with my own heartfelt experiences. It’ll be quite
-easy, quite natural.
+Aunque debería estar golpeando tus dientes con el bombo que es Ruby y el cuadro
+muy unido de acrónimos pertinentes que lo acompañan a todos lados (abriendo el
+apetito colectivo de tus jefes y tus jefes jefes), mejor te dejare pasar
+fácilmente. Te dejare caer libremente sobre un código, interponiendo
+ocasionalmente con mis propias experiencias sinceras. Sera bien fácil, muy
+natural.
 
-I should offer you some sort of motivation, though. So, Smotchkkiss, I’m going
-to give my three best reasons to learn Ruby and be done with it.
+ebería ofrecer te algún tipo de motivación, aunque sea. Entonces, besuqueo, te
+voy a dar mis tres mejores razones para aprender Ruby y terminar del todo.
 
-1.  **Brain health.**
+1. **Salud Mental.**
 
-    Vitamin R. Goes straight to the head. Ruby will teach you to _express_ your
-ideas through a computer. You will be writing stories for a machine.
+    Vitamina R. va directamente a la cabeza. Ruby te enseñara a _expresar_ tus
+ideas por medio de una computadora. Estarás escribiendo cuentos para una máquina.
+Gente creativa. Deducción. Razonar. Cabecear inteligentemente. El lenguaje se
+convertirá en una herramienta para que tú puedas conectar tu mente de mejor
+manera con el mundo. Yo he notado que varios usuarios experimentados de Ruby
+parecen ser pensadores claros y objetivos, (en contraste de: muy parciales y
+groseros.)
 
-    Creative skills, people. Deduction. Reason. Nodding intelligently. The
-language will become a tool for you to better connect your mind to the world.
-I’ve noticed that many experienced users of Ruby seem to be clear thinkers and
-objective. (In contrast to: heavily biased and coarse.)
 
-2.  **One man on one island.**
+2. **Un hombre en una isla**
 
-    Ruby was born in Japan. Which is freaky. Japan is not known for its
-software. And since programming languages are largely written in English, who
-would suspect a language to come from Japan?
+    Ruby nació en Japón. Lo cual es raro. Japón no es conocido por software. Y
+como lenguajes de programación son en su mayoría escritos en inglés, ¿quién
+sospecharía que un lenguaje vendría de Japón?
 
-    And yet, here we have Ruby. Against the odds, Yukihiro Matsumoto created
-Ruby on February 24, 1993. For the past ten years, he has steadily brought Ruby
-to a global audience. It’s triumphant and noble and all that. Support diversity.
-Help us tilt the earth just a bit.
+    Y aun así, aquí tenemos a Ruby. En contra de las probabilidades, Yukihiro
+Matsumoto creo Ruby en Febrero 24, 1993. Por los últimos 10 años, continuamente
+él ha traído a Ruby a una audiencia global. Es triunfante y noble y todo eso.
+Apoya la diversidad, ayúdanos mover la tierra aunque sea un poquito.
+
 
 3.  **Free.**
 
