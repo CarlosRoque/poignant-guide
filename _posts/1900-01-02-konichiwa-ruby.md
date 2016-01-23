@@ -185,9 +185,10 @@ haces muecas a su pelo. Tú cuelgas teléfonos ruidosamente en momentos cruciale
 de sus anécdotas. ¡Tú usas tu saltador ahí mismo done ellos tratan de caminar!
 
 
-Six months later, somehow, you and Somebody are sitting at a fountain having a
-perfectly good chat. Their face doesn’t look so much like that childhood
-nemesis. You’ve met the Good Twin. You clicked.
+Seis meses más tarde, de alguna forma, tú y ese Alguien están sentados en una
+fuente teniendo una perfectamente buena conversación. Su cara no parece como la
+de ese némesis de tu infancia. Tú has conocido el gemelo bueno. Tú has hecho
+clic.  
 
 So whereas I should probably be pounding your teeth in with hype about Ruby and
 the tightly-knit cadre of pertinent acronyms that accompany it everywhere
